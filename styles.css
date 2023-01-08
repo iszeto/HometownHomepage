@@ -54,11 +54,12 @@ html, body {
 .activities-list {
     display: flex;
     justify-content: space-around;
-    
+
+ 
 }
 
-.activites {
-    display: block;
+.activities {
+    text-align: center;
 }
 
 img {
